@@ -13,6 +13,7 @@
                     "days_as_soon": "Numero di giorni da considerarsi imminente",
                     "icon_soon": "Icona quando l'anniversario è imminente",
                     "date_format": "Formato data (vedi http://strftime.org/)"
+                    "show_half_anniversary": "Mostra attributo ricorrenza semestrale"
                 }
             }
         },
@@ -32,6 +33,7 @@
                     "days_as_soon": "Numero di giorni da considerarsi imminente",
                     "icon_soon": "Icona quando l'anniversario è imminente",
                     "date_format": "Formato data (vedi http://strftime.org/)"
+                    "show_half_anniversary": "Mostra attributo ricorrenza semestrale"
                 }
             }
         },
