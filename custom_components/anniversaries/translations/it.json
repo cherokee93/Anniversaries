@@ -11,8 +11,8 @@
                     "one_time": "One Time Event (Non-recurring)",
                     "show_half_anniversary": "Mostra attributo mezzo anniversario",
                     "date_format": "Formato data (vedi http://strftime.org/)",
-                    "unit_of_measurement": "Text for unit_of_measurement",
-                    "id_prefix": "Entity_id Prefix"
+                    "unit_of_measurement": "Testo per unit_of_measurement",
+                    "id_prefix": "Prefisso Entity_id"
                 }
             },
             "icons": {
@@ -42,8 +42,8 @@
                     "one_time": "One Time Event (Non-recurring)",
                     "show_half_anniversary": "Mostra attributo mezzo anniversario",
                     "date_format": "Formato data (vedi http://strftime.org/)",
-                    "unit_of_measurement": "Text for unit_of_measurement",
-                    "id_prefix": "Entity_id Prefix"
+                    "unit_of_measurement": "Testo per unit_of_measurement",
+                    "id_prefix": "Prefisso Entity_id"
                 }
             },
             "icons": {
